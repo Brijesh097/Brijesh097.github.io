@@ -27,8 +27,8 @@ ul.nav{
 	color: white;
 	background-size: cover;
 	background-image: url('../images/hero_image.jpg');
-/*	background-attachment: fixed;
-*/	-webkit-transition: all 0.2s ease;
+	background-attachment: fixed;
+	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
 }
